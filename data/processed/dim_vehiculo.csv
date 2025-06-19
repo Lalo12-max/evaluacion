@@ -1,0 +1,271 @@
+vehiculo_id,tipo_vehiculo,marca,modelo,año,categoria_precio,estado
+1,Coche,Toyota,Modelo 1,2023,Medio,Excelente
+2,Coche,Volkswagen,Modelo 5,2023,Económico,Regular
+3,Coche,Seat,Modelo 3,2022,Medio,Excelente
+4,Coche,Toyota,Modelo 3,2019,Económico,Regular
+5,Coche,Seat,Modelo 1,2022,Económico,Regular
+6,Coche,Seat,Modelo 14,2019,Medio,Regular
+7,Coche,Ford,Modelo 1,2024,Económico,Regular
+8,Coche,Renault,Modelo 11,2020,Económico,Excelente
+9,Coche,Ford,Modelo 4,2018,Medio,Excelente
+10,Coche,Ford,Modelo 12,2022,Medio,Excelente
+11,Coche,Renault,Modelo 18,2018,Medio,Excelente
+12,Coche,Seat,Modelo 10,2024,Premium,Regular
+13,Coche,Ford,Modelo 19,2019,Premium,Excelente
+14,Coche,Toyota,Modelo 8,2024,Medio,Excelente
+15,Coche,Volkswagen,Modelo 4,2021,Medio,Bueno
+16,Coche,Ford,Modelo 6,2020,Medio,Excelente
+17,Coche,Ford,Modelo 3,2022,Premium,Excelente
+18,Coche,Seat,Modelo 8,2019,Medio,Bueno
+19,Coche,Ford,Modelo 18,2019,Premium,Bueno
+20,Coche,Toyota,Modelo 8,2024,Económico,Bueno
+21,Coche,Renault,Modelo 9,2018,Económico,Regular
+22,Coche,Ford,Modelo 7,2023,Medio,Bueno
+23,Coche,Renault,Modelo 5,2020,Económico,Excelente
+24,Coche,Seat,Modelo 18,2020,Premium,Regular
+25,Coche,Renault,Modelo 19,2021,Medio,Excelente
+26,Coche,Volkswagen,Modelo 17,2021,Económico,Excelente
+27,Coche,Toyota,Modelo 5,2023,Económico,Regular
+28,Coche,Renault,Modelo 20,2018,Medio,Bueno
+29,Coche,Seat,Modelo 15,2022,Medio,Regular
+30,Coche,Toyota,Modelo 4,2023,Premium,Bueno
+31,Coche,Ford,Modelo 4,2020,Medio,Excelente
+32,Coche,Renault,Modelo 1,2023,Premium,Bueno
+33,Coche,Seat,Modelo 6,2022,Económico,Regular
+34,Coche,Ford,Modelo 17,2022,Económico,Excelente
+35,Coche,Ford,Modelo 6,2022,Premium,Excelente
+36,Coche,Seat,Modelo 11,2021,Económico,Excelente
+37,Coche,Ford,Modelo 10,2019,Económico,Excelente
+38,Coche,Seat,Modelo 3,2018,Premium,Bueno
+39,Coche,Toyota,Modelo 18,2024,Económico,Excelente
+40,Coche,Renault,Modelo 18,2019,Medio,Regular
+41,Coche,Seat,Modelo 14,2019,Premium,Regular
+42,Coche,Volkswagen,Modelo 10,2021,Premium,Regular
+43,Coche,Ford,Modelo 15,2022,Medio,Excelente
+44,Coche,Volkswagen,Modelo 8,2018,Medio,Excelente
+45,Coche,Seat,Modelo 18,2019,Premium,Excelente
+46,Coche,Toyota,Modelo 3,2023,Premium,Excelente
+47,Coche,Volkswagen,Modelo 3,2018,Medio,Excelente
+48,Coche,Seat,Modelo 8,2020,Premium,Bueno
+49,Coche,Volkswagen,Modelo 18,2019,Premium,Regular
+50,Coche,Seat,Modelo 16,2019,Medio,Bueno
+51,Coche,Volkswagen,Modelo 4,2018,Premium,Bueno
+52,Coche,Ford,Modelo 14,2021,Medio,Regular
+53,Coche,Toyota,Modelo 4,2018,Medio,Regular
+54,Coche,Ford,Modelo 4,2019,Económico,Excelente
+55,Coche,Seat,Modelo 15,2019,Medio,Excelente
+56,Coche,Ford,Modelo 15,2019,Económico,Bueno
+57,Coche,Seat,Modelo 4,2018,Premium,Regular
+58,Coche,Toyota,Modelo 3,2024,Económico,Excelente
+59,Coche,Renault,Modelo 16,2021,Económico,Bueno
+60,Coche,Toyota,Modelo 6,2021,Económico,Bueno
+61,Coche,Ford,Modelo 15,2020,Medio,Regular
+62,Coche,Seat,Modelo 16,2019,Económico,Bueno
+63,Coche,Volkswagen,Modelo 2,2022,Premium,Regular
+64,Coche,Toyota,Modelo 11,2018,Económico,Regular
+65,Coche,Renault,Modelo 17,2024,Premium,Excelente
+66,Coche,Toyota,Modelo 17,2018,Económico,Excelente
+67,Coche,Seat,Modelo 3,2023,Económico,Bueno
+68,Coche,Toyota,Modelo 19,2019,Premium,Regular
+69,Coche,Toyota,Modelo 20,2018,Medio,Regular
+70,Coche,Seat,Modelo 19,2022,Medio,Bueno
+71,Coche,Volkswagen,Modelo 11,2019,Medio,Bueno
+72,Coche,Volkswagen,Modelo 10,2021,Medio,Excelente
+73,Coche,Toyota,Modelo 15,2022,Premium,Excelente
+74,Coche,Toyota,Modelo 18,2019,Premium,Bueno
+75,Coche,Volkswagen,Modelo 12,2018,Económico,Bueno
+76,Coche,Ford,Modelo 6,2021,Premium,Regular
+77,Coche,Ford,Modelo 20,2024,Premium,Regular
+78,Coche,Toyota,Modelo 18,2020,Premium,Excelente
+79,Coche,Volkswagen,Modelo 9,2018,Económico,Regular
+80,Coche,Seat,Modelo 5,2020,Medio,Regular
+81,Coche,Volkswagen,Modelo 11,2019,Premium,Regular
+82,Coche,Ford,Modelo 17,2021,Medio,Excelente
+83,Coche,Toyota,Modelo 14,2024,Medio,Excelente
+84,Coche,Toyota,Modelo 11,2024,Económico,Regular
+85,Coche,Ford,Modelo 6,2023,Medio,Regular
+86,Coche,Renault,Modelo 18,2018,Económico,Excelente
+87,Coche,Volkswagen,Modelo 18,2018,Medio,Regular
+88,Coche,Seat,Modelo 5,2021,Económico,Excelente
+89,Coche,Ford,Modelo 12,2024,Económico,Bueno
+90,Coche,Volkswagen,Modelo 8,2023,Económico,Bueno
+91,Coche,Seat,Modelo 14,2022,Premium,Excelente
+92,Coche,Volkswagen,Modelo 6,2024,Económico,Bueno
+93,Coche,Toyota,Modelo 6,2023,Medio,Bueno
+94,Coche,Volkswagen,Modelo 9,2019,Premium,Excelente
+95,Coche,Renault,Modelo 2,2024,Medio,Excelente
+96,Coche,Volkswagen,Modelo 15,2020,Medio,Excelente
+97,Coche,Volkswagen,Modelo 1,2023,Económico,Bueno
+98,Coche,Ford,Modelo 9,2024,Económico,Bueno
+99,Coche,Ford,Modelo 17,2021,Premium,Regular
+100,Coche,Ford,Modelo 1,2018,Medio,Excelente
+101,Coche,Seat,Modelo 9,2018,Económico,Regular
+102,Coche,Renault,Modelo 12,2023,Medio,Bueno
+103,Coche,Seat,Modelo 17,2018,Medio,Regular
+104,Coche,Volkswagen,Modelo 9,2018,Premium,Bueno
+105,Coche,Toyota,Modelo 17,2024,Premium,Regular
+106,Coche,Volkswagen,Modelo 12,2021,Económico,Regular
+107,Coche,Ford,Modelo 20,2020,Premium,Excelente
+108,Coche,Ford,Modelo 17,2020,Premium,Bueno
+109,Coche,Ford,Modelo 13,2023,Medio,Regular
+110,Coche,Volkswagen,Modelo 7,2021,Premium,Bueno
+111,Coche,Volkswagen,Modelo 20,2022,Medio,Bueno
+112,Coche,Seat,Modelo 1,2020,Medio,Excelente
+113,Coche,Renault,Modelo 19,2022,Premium,Bueno
+114,Coche,Renault,Modelo 15,2021,Premium,Excelente
+115,Coche,Seat,Modelo 16,2024,Premium,Excelente
+116,Coche,Toyota,Modelo 10,2022,Premium,Regular
+117,Coche,Seat,Modelo 11,2018,Económico,Regular
+118,Coche,Ford,Modelo 8,2024,Económico,Excelente
+119,Coche,Toyota,Modelo 2,2019,Medio,Regular
+120,Coche,Toyota,Modelo 15,2021,Premium,Regular
+121,Coche,Volkswagen,Modelo 13,2021,Medio,Excelente
+122,Coche,Volkswagen,Modelo 1,2024,Económico,Bueno
+123,Coche,Volkswagen,Modelo 6,2024,Premium,Regular
+124,Coche,Renault,Modelo 2,2022,Económico,Excelente
+125,Coche,Renault,Modelo 5,2024,Medio,Regular
+126,Coche,Seat,Modelo 18,2022,Medio,Bueno
+127,Coche,Seat,Modelo 17,2021,Premium,Bueno
+128,Coche,Volkswagen,Modelo 16,2021,Medio,Excelente
+129,Coche,Ford,Modelo 17,2021,Premium,Excelente
+130,Coche,Ford,Modelo 15,2018,Premium,Bueno
+131,Coche,Volkswagen,Modelo 9,2020,Medio,Regular
+132,Coche,Toyota,Modelo 5,2019,Económico,Bueno
+133,Coche,Volkswagen,Modelo 7,2018,Medio,Bueno
+134,Coche,Ford,Modelo 18,2021,Medio,Excelente
+135,Coche,Volkswagen,Modelo 14,2021,Premium,Regular
+136,Coche,Toyota,Modelo 19,2021,Medio,Excelente
+137,Coche,Ford,Modelo 10,2024,Medio,Bueno
+138,Coche,Seat,Modelo 18,2024,Premium,Excelente
+139,Coche,Renault,Modelo 8,2020,Medio,Bueno
+140,Coche,Toyota,Modelo 13,2020,Premium,Regular
+141,Coche,Renault,Modelo 6,2024,Medio,Excelente
+142,Coche,Seat,Modelo 18,2018,Medio,Regular
+143,Coche,Seat,Modelo 1,2018,Premium,Bueno
+144,Coche,Volkswagen,Modelo 15,2019,Económico,Bueno
+145,Coche,Renault,Modelo 11,2019,Medio,Bueno
+146,Coche,Ford,Modelo 13,2020,Medio,Bueno
+147,Coche,Toyota,Modelo 16,2018,Premium,Regular
+148,Coche,Toyota,Modelo 12,2019,Premium,Excelente
+149,Coche,Toyota,Modelo 1,2019,Económico,Excelente
+150,Coche,Seat,Modelo 5,2019,Económico,Bueno
+151,Moto,Yamaha,Modelo 10,2020,Medio,Regular
+152,Moto,Kawasaki,Modelo 13,2021,Económico,Regular
+153,Moto,Yamaha,Modelo 13,2020,Medio,Excelente
+154,Moto,Yamaha,Modelo 15,2021,Premium,Regular
+155,Moto,BMW,Modelo 7,2024,Económico,Excelente
+156,Moto,Honda,Modelo 2,2024,Medio,Regular
+157,Moto,Yamaha,Modelo 13,2023,Económico,Bueno
+158,Moto,BMW,Modelo 11,2021,Económico,Regular
+159,Moto,Kawasaki,Modelo 1,2022,Medio,Excelente
+160,Moto,BMW,Modelo 6,2024,Medio,Regular
+161,Moto,Honda,Modelo 7,2020,Premium,Regular
+162,Moto,Kawasaki,Modelo 10,2023,Medio,Bueno
+163,Moto,BMW,Modelo 14,2024,Premium,Bueno
+164,Moto,Kawasaki,Modelo 14,2020,Económico,Bueno
+165,Moto,BMW,Modelo 4,2022,Premium,Regular
+166,Moto,BMW,Modelo 6,2019,Medio,Bueno
+167,Moto,Honda,Modelo 8,2020,Medio,Bueno
+168,Moto,Kawasaki,Modelo 5,2023,Premium,Bueno
+169,Moto,Yamaha,Modelo 9,2020,Económico,Excelente
+170,Moto,BMW,Modelo 8,2023,Económico,Regular
+171,Moto,BMW,Modelo 11,2024,Medio,Bueno
+172,Moto,Yamaha,Modelo 2,2021,Económico,Bueno
+173,Moto,Honda,Modelo 5,2024,Premium,Bueno
+174,Moto,BMW,Modelo 9,2023,Medio,Bueno
+175,Moto,Kawasaki,Modelo 6,2024,Medio,Bueno
+176,Moto,Kawasaki,Modelo 5,2020,Económico,Regular
+177,Moto,Honda,Modelo 6,2019,Premium,Regular
+178,Moto,Honda,Modelo 4,2020,Premium,Bueno
+179,Moto,Kawasaki,Modelo 12,2023,Premium,Regular
+180,Moto,Kawasaki,Modelo 2,2020,Medio,Excelente
+181,Moto,Kawasaki,Modelo 3,2021,Económico,Regular
+182,Moto,Honda,Modelo 5,2019,Económico,Regular
+183,Moto,Kawasaki,Modelo 12,2020,Premium,Bueno
+184,Moto,Yamaha,Modelo 14,2019,Premium,Bueno
+185,Moto,BMW,Modelo 8,2022,Medio,Excelente
+186,Moto,Yamaha,Modelo 5,2022,Económico,Excelente
+187,Moto,BMW,Modelo 8,2019,Premium,Regular
+188,Moto,Yamaha,Modelo 3,2020,Premium,Bueno
+189,Moto,Yamaha,Modelo 4,2019,Premium,Bueno
+190,Moto,Honda,Modelo 13,2023,Medio,Bueno
+191,Moto,BMW,Modelo 5,2023,Medio,Bueno
+192,Moto,Yamaha,Modelo 10,2024,Económico,Excelente
+193,Moto,Honda,Modelo 5,2024,Económico,Excelente
+194,Moto,Honda,Modelo 3,2023,Económico,Excelente
+195,Moto,Yamaha,Modelo 7,2022,Premium,Regular
+196,Moto,BMW,Modelo 5,2019,Económico,Bueno
+197,Moto,Kawasaki,Modelo 12,2022,Económico,Regular
+198,Moto,Honda,Modelo 15,2021,Premium,Regular
+199,Moto,Honda,Modelo 7,2019,Premium,Excelente
+200,Moto,Honda,Modelo 15,2021,Económico,Excelente
+201,Camioneta,Ford Transit,Modelo 3,2024,Premium,Regular
+202,Camioneta,Iveco Daily,Modelo 10,2020,Premium,Excelente
+203,Camioneta,Mercedes Sprinter,Modelo 5,2023,Premium,Bueno
+204,Camioneta,Iveco Daily,Modelo 9,2021,Premium,Excelente
+205,Camioneta,Iveco Daily,Modelo 1,2021,Premium,Regular
+206,Camioneta,Mercedes Sprinter,Modelo 1,2018,Medio,Regular
+207,Camioneta,Iveco Daily,Modelo 10,2018,Premium,Regular
+208,Camioneta,Ford Transit,Modelo 3,2021,Premium,Bueno
+209,Camioneta,Ford Transit,Modelo 10,2021,Premium,Excelente
+210,Camioneta,Mercedes Sprinter,Modelo 6,2021,Premium,Bueno
+211,Camioneta,Iveco Daily,Modelo 2,2024,Medio,Bueno
+212,Camioneta,Mercedes Sprinter,Modelo 8,2020,Premium,Regular
+213,Camioneta,Ford Transit,Modelo 8,2018,Premium,Bueno
+214,Camioneta,Mercedes Sprinter,Modelo 2,2024,Premium,Regular
+215,Camioneta,Ford Transit,Modelo 9,2021,Premium,Excelente
+216,Camioneta,Ford Transit,Modelo 9,2020,Premium,Regular
+217,Camioneta,Mercedes Sprinter,Modelo 1,2019,Premium,Regular
+218,Camioneta,Ford Transit,Modelo 5,2021,Premium,Excelente
+219,Camioneta,Ford Transit,Modelo 10,2024,Medio,Regular
+220,Camioneta,Ford Transit,Modelo 5,2022,Medio,Regular
+221,Camioneta,Mercedes Sprinter,Modelo 2,2019,Medio,Bueno
+222,Camioneta,Ford Transit,Modelo 3,2021,Premium,Regular
+223,Camioneta,Iveco Daily,Modelo 5,2021,Premium,Bueno
+224,Camioneta,Ford Transit,Modelo 8,2022,Medio,Bueno
+225,Camioneta,Ford Transit,Modelo 10,2022,Medio,Excelente
+226,Camioneta,Mercedes Sprinter,Modelo 7,2020,Premium,Excelente
+227,Camioneta,Mercedes Sprinter,Modelo 5,2024,Premium,Excelente
+228,Camioneta,Mercedes Sprinter,Modelo 9,2021,Premium,Bueno
+229,Camioneta,Iveco Daily,Modelo 9,2021,Premium,Bueno
+230,Camioneta,Ford Transit,Modelo 4,2022,Premium,Excelente
+231,Camioneta,Mercedes Sprinter,Modelo 1,2020,Premium,Regular
+232,Camioneta,Mercedes Sprinter,Modelo 7,2023,Medio,Bueno
+233,Camioneta,Ford Transit,Modelo 3,2022,Premium,Excelente
+234,Camioneta,Mercedes Sprinter,Modelo 2,2022,Premium,Excelente
+235,Camioneta,Iveco Daily,Modelo 3,2021,Medio,Excelente
+236,Camioneta,Mercedes Sprinter,Modelo 5,2020,Premium,Regular
+237,Camioneta,Ford Transit,Modelo 6,2024,Premium,Bueno
+238,Camioneta,Iveco Daily,Modelo 8,2024,Medio,Regular
+239,Camioneta,Ford Transit,Modelo 4,2023,Premium,Excelente
+240,Camioneta,Iveco Daily,Modelo 2,2021,Medio,Regular
+241,Remolque,Brenderup,Modelo 2,2021,Económico,Regular
+242,Remolque,Böckmann,Modelo 1,2018,Medio,Excelente
+243,Remolque,Böckmann,Modelo 6,2020,Medio,Excelente
+244,Remolque,Humbaur,Modelo 7,2022,Económico,Excelente
+245,Remolque,Humbaur,Modelo 2,2022,Medio,Regular
+246,Remolque,Brenderup,Modelo 4,2021,Económico,Excelente
+247,Remolque,Böckmann,Modelo 5,2021,Medio,Regular
+248,Remolque,Humbaur,Modelo 8,2020,Económico,Excelente
+249,Remolque,Böckmann,Modelo 6,2022,Medio,Regular
+250,Remolque,Böckmann,Modelo 5,2021,Medio,Excelente
+251,Remolque,Böckmann,Modelo 8,2018,Económico,Bueno
+252,Remolque,Brenderup,Modelo 6,2022,Medio,Regular
+253,Remolque,Böckmann,Modelo 1,2024,Medio,Bueno
+254,Remolque,Humbaur,Modelo 1,2022,Medio,Bueno
+255,Remolque,Humbaur,Modelo 6,2019,Económico,Regular
+256,Remolque,Böckmann,Modelo 3,2023,Económico,Regular
+257,Remolque,Brenderup,Modelo 1,2020,Medio,Excelente
+258,Remolque,Brenderup,Modelo 6,2023,Económico,Excelente
+259,Remolque,Böckmann,Modelo 6,2023,Medio,Excelente
+260,Remolque,Humbaur,Modelo 3,2024,Medio,Regular
+261,Remolque,Brenderup,Modelo 5,2024,Económico,Bueno
+262,Remolque,Böckmann,Modelo 5,2023,Medio,Excelente
+263,Remolque,Böckmann,Modelo 2,2019,Económico,Regular
+264,Remolque,Brenderup,Modelo 7,2024,Medio,Excelente
+265,Remolque,Böckmann,Modelo 1,2020,Económico,Bueno
+266,Remolque,Böckmann,Modelo 5,2022,Medio,Regular
+267,Remolque,Böckmann,Modelo 2,2023,Económico,Bueno
+268,Remolque,Humbaur,Modelo 6,2022,Económico,Regular
+269,Remolque,Humbaur,Modelo 8,2023,Medio,Regular
+270,Remolque,Böckmann,Modelo 2,2019,Económico,Excelente
