@@ -3,7 +3,7 @@ import numpy as np
 from datetime import datetime, timedelta
 import random
 
-# Configurar semilla para reproducibilidad
+
 np.random.seed(42)
 random.seed(42)
 
@@ -61,7 +61,7 @@ def generar_dim_vehiculo():
     vehiculos = []
     vehiculo_id = 1
     
-    # Generar coches
+  
     for _ in range(150):
         vehiculos.append({
             'vehiculo_id': vehiculo_id,
@@ -74,7 +74,7 @@ def generar_dim_vehiculo():
         })
         vehiculo_id += 1
     
-    # Generar motos
+    
     for _ in range(50):
         vehiculos.append({
             'vehiculo_id': vehiculo_id,
@@ -87,7 +87,7 @@ def generar_dim_vehiculo():
         })
         vehiculo_id += 1
     
-    # Generar camionetas
+   
     for _ in range(40):
         vehiculos.append({
             'vehiculo_id': vehiculo_id,
@@ -100,7 +100,7 @@ def generar_dim_vehiculo():
         })
         vehiculo_id += 1
     
-    # Generar remolques
+    
     for _ in range(30):
         vehiculos.append({
             'vehiculo_id': vehiculo_id,
@@ -156,7 +156,7 @@ def generar_fact_alquileres():
         tipo_vehiculo = random.choice(['Coche', 'Moto', 'Camioneta', 'Remolque'])
         categoria = random.choice(['Económico', 'Medio', 'Premium'])
         
-        # Precios base por tipo y categoría
+        
         precios_base = {
             'Coche': {'Económico': 25, 'Medio': 45, 'Premium': 80},
             'Moto': {'Económico': 15, 'Medio': 25, 'Premium': 40},
@@ -170,7 +170,7 @@ def generar_fact_alquileres():
         
         alquileres.append({
             'alquiler_id': i,
-            'fecha_id': random.randint(1, 1095),  # 3 años de datos
+            'fecha_id': random.randint(1, 1095), 
             'sucursal_id': random.randint(1, 8),
             'vehiculo_id': random.randint(1, 270),
             'cliente_id': random.randint(1, 1000),
@@ -191,7 +191,7 @@ def generar_fact_gastos():
     for i in range(1, 5001):
         tipo_gasto = random.choice(tipos_gasto)
         
-        # Rangos de montos por tipo de gasto
+        
         rangos_monto = {
             'Mantenimiento': (50, 500),
             'Personal': (1500, 3000),
@@ -218,7 +218,7 @@ def main():
     """Función principal para generar todos los datasets"""
     print("Generando datasets para Rent4you Datawarehouse...")
     
-    # Generar dimensiones
+    
     print("Generando dimensiones...")
     dim_tiempo = generar_dim_tiempo()
     dim_sucursal = generar_dim_sucursal()
@@ -226,12 +226,12 @@ def main():
     dim_cliente = generar_dim_cliente()
     dim_empleado = generar_dim_empleado()
     
-    # Generar hechos
+    
     print("Generando tablas de hechos...")
     fact_alquileres = generar_fact_alquileres()
     fact_gastos = generar_fact_gastos()
     
-    # Guardar archivos CSV
+   
     print("Guardando archivos CSV...")
     dim_tiempo.to_csv('../data/processed/dim_tiempo.csv', index=False)
     dim_sucursal.to_csv('../data/processed/dim_sucursal.csv', index=False)
